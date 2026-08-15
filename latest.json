@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.2.0",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.2.0/BayfrontKennelSetup-2.2.0.exe",
-    "sha256":  "d7168982c2e1d104e7bfa3c0823053242dc45ac22edfa425c88161895339d240",
-    "notes":  "Time Clock: employee Delete replaces Deactivate, one Print button on the Selected Range Total, and weekly/range totals now match the requested date range instead of showing the full calendar week. Faster date/time picking when booking appointments (cached slot lookups, pre-warmed availability at startup).",
+    "version":  "2.2.1",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.2.1/BayfrontKennelSetup-2.2.1.exe",
+    "sha256":  "fa0d5050745606a780c7b13d9c51bc5ad8fefa3b34eac0fef9d7123a9b2ddeb8",
+    "notes":  "Fixes the update-checker itself: the manifest URL pointed at a nonexistent GitHub account (bayfront-automation instead of BayfrontAutomation), so no install could ever discover updates automatically until now. Also includes the Time Clock print-button move (single Print button on Selected Range Total) that shipped in the same 2.2.0 build as this fix.",
     "releasedAt":  "2026-08-14",
     "minVersion":  "2.0.0"
 }
