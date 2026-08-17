@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.2.1",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.2.1/BayfrontKennelSetup-2.2.1.exe",
-    "sha256":  "fa0d5050745606a780c7b13d9c51bc5ad8fefa3b34eac0fef9d7123a9b2ddeb8",
-    "notes":  "Fixes the update-checker itself: the manifest URL pointed at a nonexistent GitHub account (bayfront-automation instead of BayfrontAutomation), so no install could ever discover updates automatically until now. Also includes the Time Clock print-button move (single Print button on Selected Range Total) that shipped in the same 2.2.0 build as this fix.",
-    "releasedAt":  "2026-08-14",
+    "version":  "2.3.2",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.3.2/BayfrontKennelSetup-2.3.2.exe",
+    "sha256":  "0e2d4a854967b887c6d38caffab70547c86a05915b0fcdc280ab5d445b8c79bb",
+    "notes":  "Version 2.3.2",
+    "releasedAt":  "2026-08-17",
     "minVersion":  "2.0.0"
 }
