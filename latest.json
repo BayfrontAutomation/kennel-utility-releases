@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.3.7",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.3.7/BayfrontKennelSetup-2.3.7.exe",
-    "sha256":  "0de66d7ab636909ac679737b2a89ff4fd0c1bcfd5f1d38c7a32ad433c86a9192",
-    "notes":  "Version 2.3.7",
+    "version":  "2.4.0",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.4.0/BayfrontKennelSetup-2.4.0.exe",
+    "sha256":  "fd9c8026a66a903616949c7983574688ae7990fc64e037b2f4f3fc3a651c5816",
+    "notes":  "Version 2.4.0",
     "releasedAt":  "2026-08-17",
     "minVersion":  "2.0.0"
 }
