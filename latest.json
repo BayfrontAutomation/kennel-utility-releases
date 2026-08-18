@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.4.8",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.4.8/BayfrontKennelSetup-2.4.8.exe",
-    "sha256":  "b60b8fc8341915b27c783a97dcf539bfca618e2ccf2bef2ac83cfea76e85394b",
-    "notes":  "Add Grooming Appointment / Add Boarding renamed for clarity. Customer Cleanup and Find Duplicate Contacts can now edit phone/email and delete empty lead records right in the app -- no more trip to GHL.",
+    "version":  "2.5.0",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.5.0/BayfrontKennelSetup-2.5.0.exe",
+    "sha256":  "d0a384013e5e240d819feac46db9b7be6f1159711bcd15bf5c1f8ca3e1ba7d41",
+    "notes":  "Refreshed the look across every screen: modern icon set, more spacious cards and spacing, and a cleaner Quick Actions panel. No functional changes -- everything works exactly as before, just looks sharper.",
     "releasedAt":  "2026-08-18",
     "minVersion":  "2.0.0"
 }
