@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.4.3",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.4.3/BayfrontKennelSetup-2.4.3.exe",
-    "sha256":  "843d84e6edfda96409cf2409f2476e0c608639d8d590776f1ba90daa7eb50d93",
-    "notes":  "Quick Actions round 2: Manage a Client added to Today\u0027s Schedule and Kennel sidebars, Cleanup Tools renamed and restructured into a vertical Quick Actions layout. Add Appointment and New Boarding panels now open above their schedule instead of below, and Add Appointment has an explicit Close button. Removed the update-availability banner (update checks/installs remain in Settings).",
+    "version":  "2.4.4",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.4.4/BayfrontKennelSetup-2.4.4.exe",
+    "sha256":  "2d9299a9a6f4e7a0a5220c3c80708e3596ba1620028d0ee8e7ddc817b52e04cc",
+    "notes":  "Print Appointments moved off the top nav into a Quick Actions shortcut on Today\u0027s Schedule and Kennel. Manage a Client now uses a paw-print icon, and Add Appointment / New Boarding use calendar icons.",
     "releasedAt":  "2026-08-17",
     "minVersion":  "2.0.0"
 }
