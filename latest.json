@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.5.0",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.5.0/BayfrontKennelSetup-2.5.0.exe",
-    "sha256":  "d0a384013e5e240d819feac46db9b7be6f1159711bcd15bf5c1f8ca3e1ba7d41",
-    "notes":  "Refreshed the look across every screen: modern icon set, more spacious cards and spacing, and a cleaner Quick Actions panel. No functional changes -- everything works exactly as before, just looks sharper.",
+    "version":  "2.6.0",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.0/BayfrontKennelSetup-2.6.0.exe",
+    "sha256":  "b95768c0cd5c215d1e311d9a9f71c56108a5fa2d006f3c28779e665e8599f8ea",
+    "notes":  "Kennel: track arrived/picked-up status per pet with color-coded runs, an automatic late-checkout fee for every day past the checkout cutoff, and a new Daycare booking type ($25/day flat, its own color).",
     "releasedAt":  "2026-08-18",
     "minVersion":  "2.0.0"
 }
