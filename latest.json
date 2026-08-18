@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.4.4",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.4.4/BayfrontKennelSetup-2.4.4.exe",
-    "sha256":  "2d9299a9a6f4e7a0a5220c3c80708e3596ba1620028d0ee8e7ddc817b52e04cc",
-    "notes":  "Print Appointments moved off the top nav into a Quick Actions shortcut on Today\u0027s Schedule and Kennel. Manage a Client now uses a paw-print icon, and Add Appointment / New Boarding use calendar icons.",
+    "version":  "2.4.5",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.4.5/BayfrontKennelSetup-2.4.5.exe",
+    "sha256":  "991b58aa3ca680923b04a384b996517ac67825baa00b16dda39feb4679fbcfcd",
+    "notes":  "Print Appointments now has a Close button. Close buttons across Quick Actions panels are now a square X box. Manage a Client is back in Cleanup Tools\u0027 Quick Actions (with X close buttons added to all four Cleanup Tools panels) and its icon is now a paw print. Header/title renamed from \u0027Grooming Center\u0027 to \u0027Grooming and Boarding Center\u0027.",
     "releasedAt":  "2026-08-17",
     "minVersion":  "2.0.0"
 }
