@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.6.0",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.0/BayfrontKennelSetup-2.6.0.exe",
-    "sha256":  "b95768c0cd5c215d1e311d9a9f71c56108a5fa2d006f3c28779e665e8599f8ea",
-    "notes":  "Kennel: track arrived/picked-up status per pet with color-coded runs, an automatic late-checkout fee for every day past the checkout cutoff, and a new Daycare booking type ($25/day flat, its own color).",
+    "version":  "2.6.1",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.1/BayfrontKennelSetup-2.6.1.exe",
+    "sha256":  "6dbde4e5ad3e9c95ce04c965c6b92549fd0b9a7d96c02388d478aadc8e14bef1",
+    "notes":  "Support: reset-settings-password.bat clears a forgotten Settings password (needs file access to the PC, self-elevates as needed). Fixed: several buttons (info icon, Remove, + Add, change client) were rendering as oversized red pills instead of small inline links.",
     "releasedAt":  "2026-08-18",
     "minVersion":  "2.0.0"
 }
