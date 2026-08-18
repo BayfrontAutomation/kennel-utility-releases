@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.4.5",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.4.5/BayfrontKennelSetup-2.4.5.exe",
-    "sha256":  "991b58aa3ca680923b04a384b996517ac67825baa00b16dda39feb4679fbcfcd",
-    "notes":  "Print Appointments now has a Close button. Close buttons across Quick Actions panels are now a square X box. Manage a Client is back in Cleanup Tools\u0027 Quick Actions (with X close buttons added to all four Cleanup Tools panels) and its icon is now a paw print. Header/title renamed from \u0027Grooming Center\u0027 to \u0027Grooming and Boarding Center\u0027.",
+    "version":  "2.4.6",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.4.6/BayfrontKennelSetup-2.4.6.exe",
+    "sha256":  "e72c90d17235df63f9c1cac9470b621257d87cf945507dd330572c876bdd070f",
+    "notes":  "Fixed the New Boarding and Add Appointment panel icons not matching their Quick Actions card icons.",
     "releasedAt":  "2026-08-17",
     "minVersion":  "2.0.0"
 }
