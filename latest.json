@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.6.1",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.1/BayfrontKennelSetup-2.6.1.exe",
-    "sha256":  "6dbde4e5ad3e9c95ce04c965c6b92549fd0b9a7d96c02388d478aadc8e14bef1",
-    "notes":  "Support: reset-settings-password.bat clears a forgotten Settings password (needs file access to the PC, self-elevates as needed). Fixed: several buttons (info icon, Remove, + Add, change client) were rendering as oversized red pills instead of small inline links.",
+    "version":  "2.6.2",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.2/BayfrontKennelSetup-2.6.2.exe",
+    "sha256":  "fd66a7e851ad9d8787a78f88c1589c59606081e3d4b4abadcceb45d5488692a1",
+    "notes":  "Fixed: a Save button inside Today\u0027s Schedule / Kennel notes-medications panels was rendering huge and full-width instead of a normal compact button.",
     "releasedAt":  "2026-08-18",
     "minVersion":  "2.0.0"
 }
