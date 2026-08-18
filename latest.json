@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.4.7",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.4.7/BayfrontKennelSetup-2.4.7.exe",
-    "sha256":  "36f63f2b217ab83c515a85e6b4b7f346ae6efff22d1bee338252b9e48a0ac5f5",
-    "notes":  "New Boarding\u0027s panel now has the same X close button as every other Quick Actions panel (it was the only one missing it).",
-    "releasedAt":  "2026-08-17",
+    "version":  "2.4.8",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.4.8/BayfrontKennelSetup-2.4.8.exe",
+    "sha256":  "b60b8fc8341915b27c783a97dcf539bfca618e2ccf2bef2ac83cfea76e85394b",
+    "notes":  "Add Grooming Appointment / Add Boarding renamed for clarity. Customer Cleanup and Find Duplicate Contacts can now edit phone/email and delete empty lead records right in the app -- no more trip to GHL.",
+    "releasedAt":  "2026-08-18",
     "minVersion":  "2.0.0"
 }
