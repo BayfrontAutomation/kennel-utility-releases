@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.6.3",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.3/BayfrontKennelSetup-2.6.3.exe",
-    "sha256":  "928092a88451a135d12a4753453435fe5ee0008a8652666979abdb8b99cc72f3",
-    "notes":  "Manage a Client: edit an existing client\u0027s name, phone, and email inline. Kennel: run map shows only the relevant check-in/check-out box per dog (never both at once), plus an undo link to correct a mis-click.",
+    "version":  "2.6.4",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.4/BayfrontKennelSetup-2.6.4.exe",
+    "sha256":  "e950af24b27852947e2ac842db20bee8a929a7ce798b5e060d79db199ef379a3",
+    "notes":  "Kennel: neighbor-warnings panel is now collapsible (starts collapsed as a count, click to expand) instead of always listing every pairing, which could get very long on a full kennel. Also fixed a hover bug where its text could go invisible, and corrected \u0027neighbour\u0027 to \u0027neighbor\u0027 throughout the app.",
     "releasedAt":  "2026-08-19",
     "minVersion":  "2.0.0"
 }
