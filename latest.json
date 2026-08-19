@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.6.2",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.2/BayfrontKennelSetup-2.6.2.exe",
-    "sha256":  "fd66a7e851ad9d8787a78f88c1589c59606081e3d4b4abadcceb45d5488692a1",
-    "notes":  "Fixed: a Save button inside Today\u0027s Schedule / Kennel notes-medications panels was rendering huge and full-width instead of a normal compact button.",
-    "releasedAt":  "2026-08-18",
+    "version":  "2.6.3",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.3/BayfrontKennelSetup-2.6.3.exe",
+    "sha256":  "928092a88451a135d12a4753453435fe5ee0008a8652666979abdb8b99cc72f3",
+    "notes":  "Manage a Client: edit an existing client\u0027s name, phone, and email inline. Kennel: run map shows only the relevant check-in/check-out box per dog (never both at once), plus an undo link to correct a mis-click.",
+    "releasedAt":  "2026-08-19",
     "minVersion":  "2.0.0"
 }
