@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.6.5",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.5/BayfrontKennelSetup-2.6.5.exe",
-    "sha256":  "4ac72797888b6a8e806ac5bb1206c8e929d9e9cb154a13c3358e327bf2b67529",
-    "notes":  "Kennel Month Grid: each stay bar now shows the pet\u0027s breed (e.g. \u0027Rex German Shepherd - Owner Name\u0027), matching what was already available in the underlying data but not shown. Full breed/owner/dates still available on hover.",
+    "version":  "2.6.6",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.6/BayfrontKennelSetup-2.6.6.exe",
+    "sha256":  "ae06281708a957b3712b344b3ec837acdabe5ad3879ea1982a1d7cc47dd7745d",
+    "notes":  "Kennel Run Map: occupant cards now also show the pet\u0027s breed (under the name, next to the owner), matching the Month Grid added in the last release.",
     "releasedAt":  "2026-08-19",
     "minVersion":  "2.0.0"
 }
