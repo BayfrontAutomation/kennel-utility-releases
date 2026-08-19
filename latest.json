@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.6.4",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.4/BayfrontKennelSetup-2.6.4.exe",
-    "sha256":  "e950af24b27852947e2ac842db20bee8a929a7ce798b5e060d79db199ef379a3",
-    "notes":  "Kennel: neighbor-warnings panel is now collapsible (starts collapsed as a count, click to expand) instead of always listing every pairing, which could get very long on a full kennel. Also fixed a hover bug where its text could go invisible, and corrected \u0027neighbour\u0027 to \u0027neighbor\u0027 throughout the app.",
+    "version":  "2.6.5",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.5/BayfrontKennelSetup-2.6.5.exe",
+    "sha256":  "4ac72797888b6a8e806ac5bb1206c8e929d9e9cb154a13c3358e327bf2b67529",
+    "notes":  "Kennel Month Grid: each stay bar now shows the pet\u0027s breed (e.g. \u0027Rex German Shepherd - Owner Name\u0027), matching what was already available in the underlying data but not shown. Full breed/owner/dates still available on hover.",
     "releasedAt":  "2026-08-19",
     "minVersion":  "2.0.0"
 }
