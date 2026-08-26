@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.6.6",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.6/BayfrontKennelSetup-2.6.6.exe",
-    "sha256":  "ae06281708a957b3712b344b3ec837acdabe5ad3879ea1982a1d7cc47dd7745d",
-    "notes":  "Kennel Run Map: occupant cards now also show the pet\u0027s breed (under the name, next to the owner), matching the Month Grid added in the last release.",
-    "releasedAt":  "2026-08-19",
+    "version":  "2.6.7",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.6.7/BayfrontKennelSetup-2.6.7.exe",
+    "sha256":  "2f0312aaa7c9271059ba84660548721ff781b6db542481ee3adba97f3bcf1bd1",
+    "notes":  "Fix: a contact\u0027s pet list could fail to load entirely if even one pet record was missing (e.g. deleted outside the app). Now skips just the missing one instead of showing an error for the whole client.",
+    "releasedAt":  "2026-08-26",
     "minVersion":  "2.0.0"
 }
