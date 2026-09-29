@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.9.1",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.9.1/BayfrontGroomCenter-2.9.1.exe",
-    "sha256":  "f90f4743936ac0bad66f24675b22f395ca5c18b729ac42eccdc66eec16111750",
-    "notes":  "Adds a Legacy Name Check tool to Customer Cleanup (flags contacts filed under the wrong name from the old import), lets pets be edited (name/breed) directly from Manage a Client, and adds pet checkboxes to Print History that filter what\u0027s printed AND what the appointment table/Delete Selected/Delete All act on. Also renamed the product from \u0027Bayfront Automation Kennel Utility\u0027 to \u0027Bayfront Automation Grooming Center\u0027 -- display names and the installer/service branding only, no functional changes.",
-    "releasedAt":  "2026-08-31",
+    "version":  "2.10.0",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.10.0/BayfrontGroomCenter-2.10.0.exe",
+    "sha256":  "8336c1f918c8855510b05363065b6c64abd240381a52b4838c755fdb461b028c",
+    "notes":  "Recurring scheduler: choose Repeating Pattern or Pick Specific Dates; add extra one-off dates to a pattern.",
+    "releasedAt":  "2026-09-29",
     "minVersion":  "2.0.0"
 }
