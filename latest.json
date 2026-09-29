@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.10.0",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.10.0/BayfrontGroomCenter-2.10.0.exe",
-    "sha256":  "8336c1f918c8855510b05363065b6c64abd240381a52b4838c755fdb461b028c",
-    "notes":  "Recurring scheduler: choose Repeating Pattern or Pick Specific Dates; add extra one-off dates to a pattern.",
+    "version":  "2.10.1",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.10.1/BayfrontGroomCenter-2.10.1.exe",
+    "sha256":  "05cabb9bc2ace35a2dd96ff4e1b6537b033941846aaa40b5f61793f42d60a495",
+    "notes":  "Adds Show Appointments to Manage a Client (read-only upcoming/past list with a shortcut to Print Appointments). Fixes client search crashing with a petRecords error when GHL is slow right after a restart.",
     "releasedAt":  "2026-09-29",
     "minVersion":  "2.0.0"
 }
