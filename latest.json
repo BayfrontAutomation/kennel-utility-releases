@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.10.2",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.10.2/BayfrontGroomCenter-2.10.2.exe",
-    "sha256":  "625c8d98ad050cc8782f7124c65fb47d687194f087ed232a2e8caeed75713391",
-    "notes":  "Adds a Book Appointment button to existing clients in Manage a Client, opening the booking screen with that client and their pets already loaded.",
+    "version":  "2.11.0",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.11.0/BayfrontGroomCenter-2.11.0.exe",
+    "sha256":  "02d7a43771e4a322c33e5aa93b188783352a6a6c47fea3d5dce477127cf6d335",
+    "notes":  "New app font (Figtree), now built into the app so it looks the same even without internet",
     "releasedAt":  "2026-09-29",
     "minVersion":  "2.0.0"
 }
