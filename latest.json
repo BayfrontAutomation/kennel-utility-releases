@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.11.0",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.11.0/BayfrontGroomCenter-2.11.0.exe",
-    "sha256":  "02d7a43771e4a322c33e5aa93b188783352a6a6c47fea3d5dce477127cf6d335",
-    "notes":  "New app font (Figtree), now built into the app so it looks the same even without internet",
-    "releasedAt":  "2026-09-29",
+    "version":  "2.11.1",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.11.1/BayfrontGroomCenter-2.11.1.exe",
+    "sha256":  "8afa6d841d379904d01c1fafaabf0ef173b544e1e682de9e9c3d57927c777534",
+    "notes":  "Fixes notes saved from Manage a Client erasing a pet\u0027s allergies, medications and shots.",
+    "releasedAt":  "2026-10-07",
     "minVersion":  "2.0.0"
 }
