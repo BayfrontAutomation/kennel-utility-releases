@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.14.1",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.14.1/BayfrontGroomCenter-2.14.1.exe",
-    "sha256":  "ddfd0b558a4a21779fa6889af9534db81101ffc3ac97a301cf1d7d1e0c584075",
-    "notes":  "Service Colors now sit right under Accent Color in Settings and save with the Save button",
+    "version":  "2.15.0",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.15.0/BayfrontGroomCenter-2.15.0.exe",
+    "sha256":  "f032a5eff5715ead3dd170c2c8d87cd4cb97d05bf503ac0d11148d0a0c9705c3",
+    "notes":  "New layout: menu and Quick Actions pinned on the left, full-width pages; phone date box fix",
     "releasedAt":  "2026-11-01",
     "minVersion":  "2.0.0"
 }
