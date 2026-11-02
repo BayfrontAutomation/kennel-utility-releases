@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.13.0",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.13.0/BayfrontGroomCenter-2.13.0.exe",
-    "sha256":  "e4da8d3166f95ef6c137731f9f1279b4d273bcfab6945e619f6b7b7d435eba2b",
-    "notes":  "Edit appointments in Manage a Client (service, date, time) and Alternate Services for a pet\u0027s upcoming visits; plus Mark Day Full",
+    "version":  "2.14.0",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.14.0/BayfrontGroomCenter-2.14.0.exe",
+    "sha256":  "0be07043e22b22114f915e97d61ebde2044c55650881b2fdd537b1d5b377c61a",
+    "notes":  "Service Colors in Settings (color per service); plus appointment Edit / Alternate Services and Mark Day Full",
     "releasedAt":  "2026-11-01",
     "minVersion":  "2.0.0"
 }
