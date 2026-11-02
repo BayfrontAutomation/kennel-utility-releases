@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.16.1",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.16.1/BayfrontGroomCenter-2.16.1.exe",
-    "sha256":  "594854044199e3e53e895fc0a21c21265771525dc79504bbdfd58673058305d9",
-    "notes":  "Cleaner pet illustrations (from the refined design)",
+    "version":  "2.16.2",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.16.2/BayfrontGroomCenter-2.16.2.exe",
+    "sha256":  "3e293650280db05c2dd28f3755e19a321162512cc0f9bb76ea1e78cd2fd68410",
+    "notes":  "Header title in a bolder font",
     "releasedAt":  "2026-11-02",
     "minVersion":  "2.0.0"
 }
