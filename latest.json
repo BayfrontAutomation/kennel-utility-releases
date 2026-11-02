@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.15.1",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.15.1/BayfrontGroomCenter-2.15.1.exe",
-    "sha256":  "7b9fa0cc7fd4d2c5aa872cf6f3ba5b5db795ace49b1bfcd806693e8c99a53ecf",
-    "notes":  "Fix: schedule no longer cut off when the window isn\u0027t full screen",
-    "releasedAt":  "2026-11-01",
+    "version":  "2.16.0",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.16.0/BayfrontGroomCenter-2.16.0.exe",
+    "sha256":  "410f529f29c491c1c596c2cf85003ea9b3b009b1ad1944fad30ace6fcc8566f3",
+    "notes":  "New look: themed sidebar and header, pet illustrations, colors follow your Accent Color",
+    "releasedAt":  "2026-11-02",
     "minVersion":  "2.0.0"
 }
