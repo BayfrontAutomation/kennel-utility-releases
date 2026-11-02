@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.12.0",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.12.0/BayfrontGroomCenter-2.12.0.exe",
-    "sha256":  "71bb1fa8f51889114a435dd0b88df6fe1c1174c10d35c355a5d05a0889de5b43",
-    "notes":  "Mark Day Full: staff can close a grooming day to new appointments from Today\u0027s Schedule",
+    "version":  "2.13.0",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.13.0/BayfrontGroomCenter-2.13.0.exe",
+    "sha256":  "e4da8d3166f95ef6c137731f9f1279b4d273bcfab6945e619f6b7b7d435eba2b",
+    "notes":  "Edit appointments in Manage a Client (service, date, time) and Alternate Services for a pet\u0027s upcoming visits; plus Mark Day Full",
     "releasedAt":  "2026-11-01",
     "minVersion":  "2.0.0"
 }
