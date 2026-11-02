@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.16.2",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.16.2/BayfrontGroomCenter-2.16.2.exe",
-    "sha256":  "3e293650280db05c2dd28f3755e19a321162512cc0f9bb76ea1e78cd2fd68410",
-    "notes":  "Header title in a bolder font",
+    "version":  "2.16.3",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.16.3/BayfrontGroomCenter-2.16.3.exe",
+    "sha256":  "abd32b64e30ce727564a036cdbf9df1d1d2f2c132f0a7b26da79b9606017eabc",
+    "notes":  "Cleaner summary cards",
     "releasedAt":  "2026-11-02",
     "minVersion":  "2.0.0"
 }
