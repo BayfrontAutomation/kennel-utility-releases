@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.11.1",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.11.1/BayfrontGroomCenter-2.11.1.exe",
-    "sha256":  "8afa6d841d379904d01c1fafaabf0ef173b544e1e682de9e9c3d57927c777534",
-    "notes":  "Fixes notes saved from Manage a Client erasing a pet\u0027s allergies, medications and shots.",
-    "releasedAt":  "2026-10-07",
+    "version":  "2.12.0",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.12.0/BayfrontGroomCenter-2.12.0.exe",
+    "sha256":  "71bb1fa8f51889114a435dd0b88df6fe1c1174c10d35c355a5d05a0889de5b43",
+    "notes":  "Mark Day Full: staff can close a grooming day to new appointments from Today\u0027s Schedule",
+    "releasedAt":  "2026-11-01",
     "minVersion":  "2.0.0"
 }
