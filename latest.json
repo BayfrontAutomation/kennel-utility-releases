@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.16.6",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.16.6/BayfrontGroomCenter-2.16.6.exe",
-    "sha256":  "51ecfc14a654d5ec84cd71418a685f7db86c0565f4b031ba962f5aed1f4eb4e5",
-    "notes":  "New Great Dane and cat drawing on empty schedule days",
-    "releasedAt":  "2026-11-14",
+    "version":  "2.17.0",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.17.0/BayfrontGroomCenter-2.17.0.exe",
+    "sha256":  "60d90cc85ff9b0c131cc8ddcfee908419f21e58af3bbfd840c1a89bceae59375",
+    "notes":  "Help screen with how-tos for every feature, and a new picture for days with no appointments.",
+    "releasedAt":  "2026-11-15",
     "minVersion":  "2.0.0"
 }
