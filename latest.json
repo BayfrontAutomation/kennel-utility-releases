@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.16.5",
-    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.16.5/BayfrontGroomCenter-2.16.5.exe",
-    "sha256":  "84d7fe939627247adf0b180f5cfacd7f9b7e2ff9cf49cd893ba1d1e441719e77",
-    "notes":  "New dog and cat drawings in the sidebar and on empty schedule days, matching the Bayfront logo",
+    "version":  "2.16.6",
+    "url":  "https://github.com/BayfrontAutomation/kennel-utility-releases/releases/download/v2.16.6/BayfrontGroomCenter-2.16.6.exe",
+    "sha256":  "51ecfc14a654d5ec84cd71418a685f7db86c0565f4b031ba962f5aed1f4eb4e5",
+    "notes":  "New Great Dane and cat drawing on empty schedule days",
     "releasedAt":  "2026-11-14",
     "minVersion":  "2.0.0"
 }
